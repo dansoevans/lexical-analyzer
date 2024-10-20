@@ -43,7 +43,7 @@ Enter a JSON object: {"name": "Rockerfeller", "age": 23, "isStudent": false}
 ('COMMA', ',')
 ('STRING', '"isStudent"')
 ('COLON', ':')
-('TRUE', 'true')
+('TRUE', 'false')
 ('RBRACE', '}')
 ```
 
